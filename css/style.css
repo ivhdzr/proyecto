@@ -1,0 +1,38 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+.img1 {
+    background: url('../img/bg2.jpg') no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+
+.img2 {
+    background: url('../img/bg1.jpg') no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+
+.img3 {
+    background: url('../img/bg3.jpg') no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+
+.img4 {
+    background: url('../img/bg4.jpg') no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
